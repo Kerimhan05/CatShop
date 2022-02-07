@@ -1,4 +1,4 @@
-<span class="title"> One page template </span>
+# One page template
 
 ---
 ```
@@ -13,14 +13,7 @@ git clone <URL_REPOSITORY>
 
 <a>https://kerimhan05.github.io/site5/</a>
 
-![Header](https://github.com/Kerimhan05/site5/blob/master/assets/maket.png)
+![Deploy](https://github.com/Kerimhan05/site5/blob/master/assets/maket.png)
 
-<style>
-.title {
-    color: blue;
-    font-size: 30px;
-    text-align: center;
-}
-</style>
 
 
